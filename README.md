@@ -92,3 +92,11 @@ The two repositories may reference each other, but they serve different purposes
 `dev-standard` は**実装標準と開発ルール**を扱います。
 
 両リポジトリは相互に参照できますが、役割は明確に分けます。
+
+## First Practical ADR / 最初の実践ADR
+
+The first example in the `adr/` directory demonstrates how to reason about authentication responsibility in a CMS-centered member system.
+
+最初のADRでは、CMSを中心とした会員サイトで認証責務をどこに置くかを題材に、要件・選択肢・トレードオフ・結果を整理しています。
+
+The example is intentionally generalized. It demonstrates the decision process rather than prescribing a universal technology choice.
